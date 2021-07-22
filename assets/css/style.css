@@ -1,0 +1,36 @@
+.center{
+	margin-left:25%;
+}
+
+.center-logo{
+	margin-left:40%;
+}
+
+.login-form{
+	width: 100%;
+}
+	.login-form:active{
+		border:1px solid #3276B1;
+	}
+
+.login-wrapper{
+	margin: auto;
+	padding: 20px;
+	width: auto;
+	height: auto;
+	background: #E7E7E7;
+	border-radius: 5px;
+	 box-shadow: 0 1px 5px rgba(0, 0, 0, 0.5);
+}
+
+.login-header{
+	width: auto;
+	height: 50px;
+	border-bottom: 1px solid #999;
+	margin-top: -5px;
+}
+
+.margin-center{
+	margin-left:35%;
+	margin-top: 10%;
+}
